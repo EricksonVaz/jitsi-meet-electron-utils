@@ -26,11 +26,11 @@
   "license": "Apache-2.0",
   "gypfile": true,
   "dependencies": {
-    "mac-screen-capture-permissions": "github:EricksonVaz/mac-screen-capture-permissions#master",
+    "mac-screen-capture-permissions": "^1.1.0",
     "nan": "^2.14.2",
     "postis": "^2.2.0",
     "prebuild-install": "^5.3.0",
-    "robotjs": "github:EricksonVaz/robotjs#master",
+    "robotjs": "0.6.0",
     "jitsi-meet-logger": "github:jitsi/jitsi-meet-logger#v1.0.0"
   },
   "devDependencies": {
